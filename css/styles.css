@@ -1,0 +1,163 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #2c2c2c;
+  background-color: #fefefe;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+ul {
+  list-style: none;
+}
+
+/* ---header--- */
+
+.header {
+}
+.header-link {
+}
+.header-link-img {
+}
+.header-nav {
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+  font-weight: 400;
+  font-size: 14px;
+  color: #2c2c2c;
+}
+
+.header-link:hover,
+.header-link:focus {
+  color: #bbf330;
+}
+
+.header-btn {
+  border-radius: 30px;
+  padding: 6px 17px;
+  /* width: 98px; */
+  /* height: 32px; */
+  background-color: #bbf330;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 150%;
+  text-align: right;
+  color: #2c2c2c;
+}
+
+/* ---hero--- */
+
+.hero {
+}
+.hero-title {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 120%;
+  color: #2c2c2c;
+}
+.hero-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #2c2c2c;
+}
+.hero-btn {
+  border-radius: 30px;
+  padding: 6px 17px;
+  /* width: 98px; */
+  /* height: 32px; */
+  background-color: #bbf330;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 150%;
+  text-align: right;
+  color: #2c2c2c;
+}
+.hero-img {
+  border-radius: 291px;
+  width: 528px;
+  height: 528px;
+}
+
+/* ---about--- */
+
+.about {
+  background-color: #ffe550;
+}
+.about-img {
+}
+.about-title {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 120%;
+  color: #2c2c2c;
+}
+.about-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #2c2c2c;
+}
+
+.about-list {
+}
+.about-item {
+}
+.about-list-subtitle {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 140%;
+  color: #2c2c2c;
+}
+.about-list-text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: #2c2c2c;
+}
+
+.about-btn {
+  border: 2px solid #7eb101;
+  border-radius: 30px;
+  padding: 10px 20px;
+  /* width: 106px; */
+  /* height: 40px; */
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 150%;
+  color: #2c2c2c;
+}
+
+/* ---favorites--- */
+
+.favorites {
+}
+.favorites-title {
+  font-weight: 700;
+  font-size: 42px;
+  text-align: center;
+  color: #2c2c2c;
+}
+.favorites-text {
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  color: #2c2c2c;
+}
+.favorites-list {
+}
+.favorites-item {
+  border: 16px solid #ffe550;
+  border-radius: 198px;
+  width: 395px;
+  height: 397px;
+}
+.favorites-img {
+  border-radius: 158px;
+  width: 315px;
+  height: 315px;
+}
